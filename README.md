@@ -1,7 +1,7 @@
 # Multithreading
-Submitted by: *Sanjana Sinha*
-Roll No: *102103040*
-Group: *3COE2*
+Submitted by: *Sanjana Sinha*  
+Roll No: *102103040*  
+Group: *3COE2*  
 ## Description
 Multiply 200 random matrices of size 1k x 1k with a constant matrix of size 1k x 1k and generate the result table and graph. 
 ## Methodology:
@@ -17,8 +17,8 @@ Creates a pandas DataFrame from the collected data.
 Plots the data to visualize the relationship between the number of threads and the time taken for matrix multiplication.
 
 ## Results
-|Number of Threads|1|2|3|4|5|6|7|8|9|10|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Number of Threads|1|2|3|4|5|6|7|8|9|
+|---|---|---|---|---|---|---|---|---|---|
 |Time taken (sec)|4.637|3.941|4.203|4071|3.896|3.764|3.794|3.709|4.041|
 
 ## Graph
