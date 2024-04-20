@@ -22,7 +22,8 @@ Plots the data to visualize the relationship between the number of threads and t
 |Time taken (sec)|4.637|3.941|4.203|4071|3.896|3.764|3.794|3.709|4.041|
 
 ## Graph
-![multithread_table_1](https://github.com/SanjanaSinha1/Multithreading/assets/100065115/f4090e75-873c4862-afc3-fc080c4be5bc) ?raw = TRUE
+![multithread_table_1](https://github.com/SanjanaSinha1/Multithreading/assets/100065115/a6921ede-f944-412f-8c8e-06302dbaaef1)
+
 ## CPU
 ![Screenshot 2024-04-20 121220](https://github.com/SanjanaSinha1/Multithreading/assets/100065115/1fc6d9cf-c2b6-425e-9f03-98f682019a52)
 
