@@ -5,14 +5,14 @@ Group: *3COE2*
 ## Description
 Multiply 200 random matrices of size 1k x 1k with a constant matrix of size 1k x 1k and generate the result table and graph. 
 ## Methodology:
-1. Generating Random Matrices:
+1.**Generating Random Matrices:**
 generate_random_matrices: Generates num_matrices random matrices of size matrix_size x matrix_size.
-2. Matrix Multiplication with Threads:
+2. **Matrix Multiplication with Threads:**
 multiply_matrices: Performs matrix multiplication.
 perform_multiplication_with_threads: Utilizes multithreading to perform matrix multiplication with different numbers of threads.
-3. Data Collection:
+3. **Data Collection:**
 Collects the time taken for matrix multiplication with different numbers of threads.
-4. Data Analysis:
+4. **Data Analysis:**
 Creates a pandas DataFrame from the collected data.
 Plots the data to visualize the relationship between the number of threads and the time taken for matrix multiplication.
 
